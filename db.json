@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter",
+      "id": 1
+    },
+    {
+      "title": "Olá Marilene!",
+      "id": 2
+    },
+    {
+      "title": "Bode",
+      "id": 4
+    },
+    {
+      "title": "Vasco da Gama",
+      "id": 5
+    }
+  ]
+}
